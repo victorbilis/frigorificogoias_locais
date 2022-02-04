@@ -1,12 +1,12 @@
-{
-  id: 1,
-  name: "Frigorífico Goiás - Jardim Goiás",
-  street_name: "Av. Dep. Jamel Cecílio",
-  street_number: "1526",
-  city: "Nova Odessa",
-  state: "SP",
-  link_maps: "https://www.google.com/",
-  link_instagram: "https://www.google.com/",
-  link_wpp: "https://www.google.com/",
-  link_2t: "https://www.google.com/"
+{ 
+    "id": 1,
+    "name": "Frigorífico Goiás - Jardim Goiás",
+    "street_name": "Av. Dep. Jamel Cecílio",
+    "street_number": "1526",
+    "city": "Nova Odessa",
+    "state": "SP",
+    "link_maps": "https://www.google.com/",
+    "link_instagram": "https://www.google.com/",
+    "link_wpp": "https://www.google.com/",
+    "link_2t": "https://www.google.com/"
 }
