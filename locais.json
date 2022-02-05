@@ -1,4 +1,4 @@
-{ 
+[{ 
     "id": 1,
     "name": "Frigorífico Goiás - Jardim Goiás",
     "street_name": "Av. Dep. Jamel Cecílio",
@@ -11,7 +11,7 @@
     "link_2t": "https://www.google.com/"
 },
 { 
-    "id": 2,
+    "id": 1,
     "name": "Frigorífico Goiás - Jardim Goiás",
     "street_name": "Av. Dep. Jamel Cecílio",
     "street_number": "1526",
@@ -21,4 +21,4 @@
     "link_instagram": "https://www.google.com/",
     "link_wpp": "https://www.google.com/",
     "link_2t": "https://www.google.com/"
-}
+}]
