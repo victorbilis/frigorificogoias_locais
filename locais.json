@@ -1,73 +1,24 @@
 [{ 
     "id": 1,
-    "name": "Frigorífico Goiás - Jardim Goiás",
-    "street_name": "Av. Dep. Jamel Cecílio",
-    "street_number": "1526",
-    "city": "Nova Odessa",
-    "state": "SP",
-    "link_maps": "https://www.google.com/",
-    "link_instagram": "https://www.google.com/",
-    "link_wpp": "https://www.google.com/",
-    "link_2t": "https://www.google.com/"
+    "name": "Frigorífico Goiás - Rio Verde",
+    "street_name": "Ac. Mariana Qd48",
+    "street_number": "33",
+    "city": "Rio Verde",
+    "state": "GO",
+    "link_maps": "https://goo.gl/maps/Cco2nb5hwz52zjmcA",
+    "link_instagram": "https://instagram.com/frigorificogoiasrv?utm_medium=copy_link",
+    "link_wpp": "https://api.whatsapp.com/send?phone=5564992867287",
+    "link_2t": "https://catalogo.2tdelivery.com.br/frigorifico-goias-rio-verde"
 },
 { 
     "id": 2,
-    "name": "Frigorífico Goiás - Jardim Goiás",
+    "name": "Frigorifico Goiás - Goiânia",
     "street_name": "Av. Dep. Jamel Cecílio",
     "street_number": "1526",
-    "city": "Nova Odessa 1",
-    "state": "SP",
-    "link_maps": "https://www.google.com/",
-    "link_instagram": "https://www.google.com/",
-    "link_wpp": "https://www.google.com/",
-    "link_2t": "https://www.google.com/"
-},
-{ 
-    "id": 3,
-    "name": "Frigorífico Goiás - Jardim Goiás",
-    "street_name": "Av. Dep. Jamel Cecílio",
-    "street_number": "1526",
-    "city": "Nova Odessa",
+    "city": "Goiânia",
     "state": "GO",
-    "link_maps": "https://www.google.com/",
-    "link_instagram": "https://www.google.com/",
-    "link_wpp": "https://www.google.com/",
-    "link_2t": "https://www.google.com/"
-},
-{ 
-    "id": 4,
-    "name": "Frigorífico Goiás - Jardim Goiás",
-    "street_name": "Av. Dep. Jamel Cecílio",
-    "street_number": "1526",
-    "city": "Nova Odessa",
-    "state": "SC",
-    "link_maps": "https://www.google.com/",
-    "link_instagram": "https://www.google.com/",
-    "link_wpp": "https://www.google.com/",
-    "link_2t": "https://www.google.com/"
-}
-,
-{ 
-    "id": 5,
-    "name": "Frigorífico Goiás - Jardim Goiás",
-    "street_name": "Av. Dep. Jamel Cecílio",
-    "street_number": "1526",
-    "city": "Nova Odessa 2",
-    "state": "MA",
-    "link_maps": "https://www.google.com/",
-    "link_instagram": "https://www.google.com/",
-    "link_wpp": "https://www.google.com/",
-    "link_2t": "https://www.google.com/"
-},
-{ 
-    "id": 6,
-    "name": "Frigorífico Goiás - Jardim Goiás",
-    "street_name": "Av. Dep. Jamel Cecílio",
-    "street_number": "1526",
-    "city": "Nova Odessa",
-    "state": "PE",
-    "link_maps": "https://www.google.com/",
-    "link_instagram": "https://www.google.com/",
-    "link_wpp": "https://www.google.com/",
-    "link_2t": "https://www.google.com/"
+    "link_maps": "https://goo.gl/maps/FisQ2YFy2ULkVFqz6",
+    "link_instagram": "https://instagram.com/frigorifico_goias?utm_medium=copy_link",
+    "link_wpp": "",
+    "link_2t": "https://catalogo.2tdelivery.com.br/frigorifico-goias-goiania"
 }]
