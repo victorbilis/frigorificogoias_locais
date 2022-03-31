@@ -21,4 +21,28 @@
     "link_instagram": "https://instagram.com/frigorifico_goias?utm_medium=copy_link",
     "link_wpp": "",
     "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-goiania"
+},
+{ 
+    "id": 3,
+    "name": "Frigorifico Goiás - Anápolis",
+    "street_name": "Av. Brasil Norte",
+    "street_number": "289",
+    "city": "Anápolis",
+    "state": "GO",
+    "link_maps": "https://goo.gl/maps/3c97qPagQs5iRnET6",
+    "link_instagram": "https://www.instagram.com/frigorificogoiasanapolis/",
+    "link_wpp": "https://wa.me/message/5XKNYNH4G7FNH1",
+    "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-anapolis"
+},
+{ 
+    "id": 4,
+    "name": "Frigorifico Goiás - Aracaju",
+    "street_name": "R. Zaqueu Brandão",
+    "street_number": "537",
+    "city": "Aracaju",
+    "state": "SE",
+    "link_maps": "https://goo.gl/maps/Wf9mVp6JXaMJqgp76",
+    "link_instagram": "https://www.instagram.com/frigorificogoiasaracaju/",
+    "link_wpp": "https://wa.me/message/5V64EX5WJ2IFO1",
+    "link_2t": "http://delivery.frigorificogoias.com/frigorifico-goias-aracaju"
 }]
