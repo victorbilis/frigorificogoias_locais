@@ -45,4 +45,17 @@
     "link_instagram": "https://www.instagram.com/frigorificogoiasaracaju/",
     "link_wpp": "https://wa.me/message/5V64EX5WJ2IFO1",
     "link_2t": "http://delivery.frigorificogoias.com/frigorifico-goias-aracaju"
-}]
+},
+{ 
+    "id": 5,
+    "name": "Frigorifico Goiás - Curitiba",
+    "street_name": "Av. Pres. Kennedy",
+    "street_number": "1226",
+    "city": "Curitiba",
+    "state": "PR",
+    "link_maps": "https://goo.gl/maps/QyvRyQMwt9KcKmdY9",
+    "link_instagram": "https://www.instagram.com/frigorificogoiascuritiba/",
+    "link_wpp": "https://wa.me/message/IHS6DM2LK6W6N1",
+    "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-curitiba"
+},
+]
