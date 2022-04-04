@@ -57,5 +57,17 @@
     "link_instagram": "https://www.instagram.com/frigorificogoiascuritiba/",
     "link_wpp": "https://wa.me/message/IHS6DM2LK6W6N1",
     "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-curitiba"
+},
+{ 
+    "id": 6,
+    "name": "Frigorifico Goiás - Catalão",
+    "street_name": "Praça Dom Emanuel",
+    "street_number": "140",
+    "city": "Catalão",
+    "state": "GO",
+    "link_maps": "https://goo.gl/maps/qyH6CWqQ1JHWW1BA6",
+    "link_instagram": "https://www.instagram.com/frigorificogoiascatalao/",
+    "link_wpp": "https://wa.me/message/J3HWLELLXXIKB1",
+    "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-catalao"
 }
 ]
