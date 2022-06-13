@@ -69,5 +69,17 @@
     "link_instagram": "https://www.instagram.com/frigorificogoiascatalao/",
     "link_wpp": "https://wa.me/message/J3HWLELLXXIKB1",
     "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-catalao"
+},
+{ 
+    "id": 7,
+    "name": "Frigorifico Goiás - Itu",
+    "street_name": "Av. Dr. Otaviano Pereira Mendes",
+    "street_number": "335",
+    "city": "Itu",
+    "state": "SP",
+    "link_maps": "https://goo.gl/maps/FMd6a1MDT2UVfLXZ9",
+    "link_instagram": "https://www.instagram.com/frigorificogoiasitu/",
+    "link_wpp": "https://wa.me/message/AGV2TWFHOKGSC1",
+    "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-itu"
 }
 ]
