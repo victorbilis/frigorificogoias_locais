@@ -81,5 +81,17 @@
     "link_instagram": "https://www.instagram.com/frigorificogoiasitu/",
     "link_wpp": "https://wa.me/message/AGV2TWFHOKGSC1",
     "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-itu"
+},
+{ 
+    "id": 8,
+    "name": "Frigorifico Goiás - Teresina",
+    "street_name": "Av. Homero Castelo Branco",
+    "street_number": "1678",
+    "city": "Teresina",
+    "state": "PI",
+    "link_maps": "https://goo.gl/maps/WtchR2Nkth3AhfU49",
+    "link_instagram": "https://instagram.com/frigorificogoiasteresina/",
+    "link_wpp": "https://wa.me/message/3SDRQSH5RHYNN1",
+    "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-teresina"
 }
 ]
