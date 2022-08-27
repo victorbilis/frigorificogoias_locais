@@ -93,5 +93,53 @@
     "link_instagram": "https://instagram.com/frigorificogoiasteresina/",
     "link_wpp": "https://wa.me/message/3SDRQSH5RHYNN1",
     "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-teresina"
+},
+{ 
+    "id": 9,
+    "name": "Frigorifico Goiás - Barra do Garça",
+    "street_name": "Av. Min. João Alberto",
+    "street_number": "1736",
+    "city": "Barra do Garças",
+    "state": "MT",
+    "link_maps": "https://goo.gl/maps/vMzTY2sJChdsy8LBA",
+    "link_instagram": "https://www.instagram.com/frigorificogoiasbarradogarcas/",
+    "link_wpp": "api.whatsapp.com/send?phone=5566997148896",
+    "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-barra-do-garca"
+},
+{ 
+    "id": 10,
+    "name": "Frigorifico Goiás - Taubaté",
+    "street_name": "Av. Itália",
+    "street_number": "500",
+    "city": "Taubaté",
+    "state": "SP",
+    "link_maps": "https://goo.gl/maps/ats33FcGbXPEpdUE6",
+    "link_instagram": "https://www.instagram.com/frigorificogoiastaubate/",
+    "link_wpp": "https://wa.me/message/LN5PJ7KHCLSRL1",
+    "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-taubate"
+},
+{ 
+    "id": 11,
+    "name": "Frigorifico Goiás - Tatuapé",
+    "street_name": "R. Antônio de Barros",
+    "street_number": "2659",
+    "city": "São Paulo",
+    "state": "SP",
+    "link_maps": "https://goo.gl/maps/JuBKeBT3AJe26eKs6",
+    "link_instagram": "https://www.instagram.com/frigorificogoiastatuape/",
+    "link_wpp": "https://wa.me/message/MJUOHASEK5DWM1",
+    "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-tatuape"
+},
+{ 
+    "id": 12,
+    "name": "Frigorifico Goiás - Ribeirão Preto",
+    "street_name": "Av. Sen. César Vergueiro",
+    "street_number": "632",
+    "city": "Ribeirão Preto",
+    "state": "SP",
+    "link_maps": "https://goo.gl/maps/KXEc9Sk4JqdV5Aro9",
+    "link_instagram": "https://www.instagram.com/friggoiasribeiraopreto/",
+    "link_wpp": "https://wa.me/message/EOUDF3G2QIWNC1",
+    "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-ribeirão-preto"
 }
 ]
