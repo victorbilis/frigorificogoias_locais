@@ -141,5 +141,29 @@
     "link_instagram": "https://www.instagram.com/friggoiasribeiraopreto/",
     "link_wpp": "https://wa.me/message/EOUDF3G2QIWNC1",
     "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-ribeirão-preto"
+},
+{ 
+    "id": 13,
+    "name": "Frigorifico Goiás - Uberlândia",
+    "street_name": "Av. Rondon Pacheco",
+    "street_number": "3223",
+    "city": "Uberlândia",
+    "state": "MG",
+    "link_maps": "",
+    "link_instagram": "https://www.instagram.com/friggoiasuberlandia/",
+    "link_wpp": "",
+    "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-uberlandia"
+},
+{ 
+    "id": 14,
+    "name": "Frigorifico Goiás - Belém",
+    "street_name": "R. Domingos Marreiros",
+    "street_number": "1844",
+    "city": "Belém",
+    "state": "PA",
+    "link_maps": "https://goo.gl/maps/RQyXhjpyR8TeAgux8",
+    "link_instagram": "https://www.instagram.com/frigorificogoiasbelem/",
+    "link_wpp": "",
+    "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-belem"
 }
 ]
