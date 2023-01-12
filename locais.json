@@ -165,5 +165,30 @@
     "link_instagram": "https://www.instagram.com/frigorificogoiasbelem/",
     "link_wpp": "",
     "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-belem"
+},
+{ 
+    "id": 15,
+    "name": "Frigorifico Goiás - Palmas",
+    "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-palmas"
+},
+{ 
+    "id": 16,
+    "name": "Frigorifico Goiás - Recife",
+    "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-recife"
+},
+{ 
+    "id": 17,
+    "name": "Frigorifico Goiás - Ipatinga",
+    "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-ipatinga"
+},
+{ 
+    "id": 18,
+    "name": "Frigorifico Goiás - Mogi das Cruzes",
+    "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-mogi-das-cruzes"
+},
+{ 
+    "id": 19,
+    "name": "Frigorifico Goiás - Campo Grande",
+    "link_2t": "https://delivery.frigorificogoias.com/frigorifico-goias-campo-grande"
 }
 ]
